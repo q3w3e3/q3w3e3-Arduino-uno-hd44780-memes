@@ -2,5 +2,3 @@
 Just some experiments with the hd44780 controller.
 
 This contains a few different ways to print to the screen.
-
-This line is a test
